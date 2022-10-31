@@ -1,2 +1,2 @@
 # HardhatLotteryDapp
-Will continue this week
+Will not be continue this week, busy on the project
